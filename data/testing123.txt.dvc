@@ -1,0 +1,4 @@
+outs:
+- md5: 761090017626147221f17337f65e7b1e
+  size: 10
+  path: testing123.txt

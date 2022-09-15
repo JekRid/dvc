@@ -1,0 +1,4 @@
+outs:
+- md5: 2215335e03567f01bf81d56b91aca15a
+  size: 14
+  path: test.txt

@@ -1,0 +1,8 @@
+schema: '2.0'
+stages:
+  test:
+    cmd: /home/test/testKernel/env_21/bin/python ml.py
+    outs:
+    - path: test.json
+      md5: 24de27c3be37fd17d16695531ec72715
+      size: 39
